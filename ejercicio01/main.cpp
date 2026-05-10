@@ -14,5 +14,6 @@ int main() {
     Alumno b=*a;
     delete a;
 
+    Alumno *c = new Alumno();
     return 0;
 }
