@@ -1,0 +1,8 @@
+//
+// Created by DerikZS on 06/04/2026.
+//
+
+#ifndef LAB01_2025_1_ZS_FUNCIONES_H
+#define LAB01_2025_1_ZS_FUNCIONES_H
+
+#endif //LAB01_2025_1_ZS_FUNCIONES_H
